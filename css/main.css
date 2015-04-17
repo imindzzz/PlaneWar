@@ -1,0 +1,23 @@
+#mainDiv {
+	height: 568px;
+	width: 320px;
+	position: relative;
+	background-color: rgb(219, 211, 211);
+	background-image: url(../img/main.png);
+	overflow: hidden;
+}
+.plane {
+	position: absolute;
+	display: block;
+}
+.bullet {
+	position: absolute;
+	display: block;
+	/*background-color: red;*/
+}
+.enemy {
+}
+.human {
+	position: absolute;
+	display: block;
+}
