@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body{
+  overflow: hidden;
+}
+.app {
+  height: 90vh;
+  width: 100vw;
+  border: 1px dotted red;
+  box-sizing: border-box;
+  position: relative;
+  background:rgb(195,201,200);
+  overflow: hidden;
+}
+.score {
+  height: 10vh;
+  width: 100vw;
+  line-height: 10vh;
+  font-size: 5vh;
+  text-align: center;
+}
